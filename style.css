@@ -1,0 +1,51 @@
+.headbody{background-color:#e4f9f5 ; 
+  font-family: "Playwrite NZ Basic", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  height: 700px;
+  width: 100%;
+  text-align: center;
+padding: 0;
+margin: 0;
+color: #66bfbf;;
+}
+.head{width: 100%;
+padding: 0;
+margin: 0;
+position: relative;}
+.cloud1{margin-top: 30px;margin-left: 25%;margin-bottom: 50px;}
+.cloud2{margin-right: 30%;margin-top: 50px;}
+.mountain{height: 350px;width: 500px;margin: 0;padding: 0;}
+h1{margin-bottom: 30px;}
+.mountain1{margin-top: 20px;position: absolute;top: 328px;width: 100%}
+.hero{width: 100%;
+height: 600px;}
+.heropic{border-radius: 50%;}
+h2{color: #66bfbf;text-align: center;}
+h3{color: #66bfbf;text-align: center;}
+p{text-align: center;}
+.features{height: 700px;}
+.featureslist{display: grid;
+grid-template-columns: 0.5fr 1fr;
+grid-template-rows: ifr 1fr;
+margin-top: 100px;
+height: 500px;
+row-gap: 2rem;
+text-align: left;
+width: 50%;
+margin-left: 25%;
+}
+.featurescon{text-align: left;margin-top: 5px;}
+.featuresp{text-align: left;}
+.featuresh{text-align: left;}
+.featuresimg{border-radius: 50%;}
+.contact{height: 500px; position: relative;text-align: center;}
+.contacth1{margin-top: 50px;
+margin-bottom: 100px;}
+.contacth2{margin-top: 50px;
+margin-bottom: 100px;}
+.contactp{text-align: center;margin-left: 30%;margin-right: 30%;margin-top: 50px;}
+.trial{background-color: #66bfbf;color: white;border-radius: 8px;padding: 10px 20px; text-decoration: none;margin-top: 50px;}
+.footerhead{background-color: #66bfbf;height: 200px;padding: 0;margin: 0;}
+.tea{color: #11999e;}
